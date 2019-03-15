@@ -15,5 +15,12 @@
   "bugs": {
     "url": "https://github.com/jtx007/shoescraper/issues"
   },
-  "homepage": "https://github.com/jtx007/shoescraper#readme"
+  "homepage": "https://github.com/jtx007/shoescraper#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^7.0.0",
+    "express": "^4.16.4",
+    "express-http-proxy": "^1.5.1",
+    "request": "^2.88.0"
+  }
 }
